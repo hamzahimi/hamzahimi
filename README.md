@@ -1,4 +1,4 @@
-![logo](https://github.com/Tajamal-Iqbal/Tajamal-Iqbal/blob/main/5582-github-blog-r3.jpg)
+![logo](https://github.com/Tajamal-Iqbal/Tajamal-Iqbal/blob/main/5582-github-blog-r3.jpg](https://github.com/hamzahimi/hamzahimi/blob/main/1*p_EHyHbTS2gmuczdCGNGfw.png)
 
 <h1 align="center">Hi 👋, I'm Ameer Hamza</h1>
 <h3 align="center">A passionate iOS developer from Pakistan</h3>
